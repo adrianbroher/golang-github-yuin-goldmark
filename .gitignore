@@ -1,1 +1,5 @@
 /goldmark-1.1.21.tar.gz
+/goldmark-1.1.21
+
+*.rpm
+*.log
